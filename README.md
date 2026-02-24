@@ -29,8 +29,8 @@ Ensure you have **Python 3.8+** installed. You will also need `pip` to install t
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/navassherif98/Recipe-Generation-from-Food-Image.git
-cd Recipe-Generation-from-Food-Image
+git clone https://github.com/HADESOO7/Recipe-Finder.git
+cd Recipe-Finder
 ```
 *(If you are running Manu's customized version, just open your modified project folder in your terminal!)*
 
